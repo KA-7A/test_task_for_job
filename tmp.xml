@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.80 scan initiated Tue Aug 24 21:31:43 2021 as: nmap -sP -n -oX tmp.xml 193.32.60-63.1-254 -->
+<nmaprun scanner="nmap" args="nmap -sP -n -oX tmp.xml 193.32.60-63.1-254" start="1629829903" startstr="Tue Aug 24 21:31:43 2021" version="7.80" xmloutputversion="1.04">
+<verbose level="0"/>
+<debugging level="0"/>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.11" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4712" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.60.12" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4494" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.17" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3215" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.18" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="5971" rttvar="5971" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.22" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3058" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.25" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4691" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.28" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3412" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.60.29" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3392" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.60.30" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4064" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.31" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3286" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.34" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3881" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.35" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3473" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.36" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3421" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.37" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3617" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.38" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3858" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.50" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="5026" rttvar="5026" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.57" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4394" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.62" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3966" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.64" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="5254" rttvar="5254" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.66" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3913" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.67" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4088" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.68" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3528" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.69" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3474" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.70" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3700" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.75" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3658" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.76" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4112" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.60.82" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3323" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.60.83" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3804" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.84" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3445" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.85" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3872" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.60.86" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3426" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.87" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3885" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.88" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3435" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.91" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3425" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.92" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3037" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.60.97" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="2947" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.61.30" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3324" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.61.40" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4214" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.61.41" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3092" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.61.45" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3801" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.61.205" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3092" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.61.210" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3005" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.62.2" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="12094" rttvar="12094" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.62.10" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="11771" rttvar="11771" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.62.14" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="11621" rttvar="11621" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.62.26" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="11929" rttvar="11929" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.62.27" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="11715" rttvar="11715" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.62.33" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="12289" rttvar="12289" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.62.34" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="13085" rttvar="13085" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.62.100" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="11723" rttvar="11723" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.62.101" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="11554" rttvar="11554" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.40" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3886" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.41" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3457" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.42" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3755" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.43" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="5608" rttvar="5608" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.44" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3416" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.48" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3896" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.49" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3211" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.50" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4759" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.51" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4222" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.52" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4071" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.53" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3959" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.54" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4061" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.65" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4597" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.67" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3582" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.70" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="47715" rttvar="47715" to="238575"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="193.32.63.156" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3056" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.63.193" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="4185" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.63.194" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3180" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.63.195" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="13127" rttvar="13127" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="193.32.63.196" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="3567" rttvar="5000" to="100000"/>
+</host>
+<runstats><finished time="1629829912" timestr="Tue Aug 24 21:31:52 2021" elapsed="8.57" summary="Nmap done at Tue Aug 24 21:31:52 2021; 1016 IP addresses (71 hosts up) scanned in 8.57 seconds" exit="success"/><hosts up="71" down="945" total="1016"/>
+</runstats>
+</nmaprun>
